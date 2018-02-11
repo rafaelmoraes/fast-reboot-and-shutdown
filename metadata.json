@@ -1,0 +1,8 @@
+{
+  "name": "fast reboot and shutdown",
+  "description": "Skip dialog window of reboot and shutdown",
+  "uuid": "fast-reboot-and-shutdown@rafaelmoraes.tech",
+  "shell-version": [
+    "3.26.2"
+  ]
+}
