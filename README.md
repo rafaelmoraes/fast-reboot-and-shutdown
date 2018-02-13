@@ -4,6 +4,7 @@ Is a gnome-shell extension that will do skip the dialog window of reboot and shu
 
 ### Preview
 The buttons will create as the picture below:
+
 ![Extension show](https://raw.githubusercontent.com/rafaelmoraes/fast-reboot-and-shutdown/master/printscreen.png)
 
 ## Install
